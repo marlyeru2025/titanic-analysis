@@ -15,9 +15,6 @@ Feature Engineering:
 
 FamilySize = SibSp + Parch
 
-IsAlone = 1 if traveling alone
-
-
 Model: Random Forest Classifier
 
 Evaluation: Accuracy on validation set
